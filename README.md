@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @MipHolmes
-- 👀 I’m interested in ... Cybersecurity: Web Applications, Network, Cloud, SDN/NFV, Containers, OT/Cyber-physical systems, PenTesting, Threat Intel, etc. 
-- 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ... Web Application Security and CVEs
+- 🌱 I’m currently learning ... SDN/NFV, Containerization, and Cloud
+- 💞️ I’m looking to collaborate on ... Penetration Testing engagements
+- 📫 How to reach me ... GitHub, 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... - I'm hyper-obssessed with Geography
+                   - I run a secondhand clothing shop (@Mazeatlanta on Depop)
+                    - I really want to go cliff diving
 
 <!---
 MipHolmes/MipHolmes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
