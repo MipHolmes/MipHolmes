@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MipHolmes
-- 👀 I’m interested in ... Web Application Security and CVEs
-- 🌱 I’m currently learning ... SDN/NFV, Containerization, and Cloud
-- 💞️ I’m looking to collaborate on ... Penetration Testing engagements
+- 👀 I’m interested in ... Web Application Security
+- 🌱 I’m currently learning ... Containerization, AWS exploits
+- 💞️ I’m looking to collaborate on ... Penetration Testing engagements, anything else
 - 📫 How to reach me ... GitHub, 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ... - I'm hyper-obssessed with Geography
