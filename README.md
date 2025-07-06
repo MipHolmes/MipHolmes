@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... Bug Bounties, Pen Testing, Web Development
 - 📫 How to reach me ... GitHub, Linkedin
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ... I'm obsessed with Geography – I can spend all day looking at maps, and researching places on Earth. 
+- ⚡ Fun fact: ... I'm obsessed with Geography – I can spend all day looking at maps and researching places on Earth. 
 
 <!---
 MipHolmes/MipHolmes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
