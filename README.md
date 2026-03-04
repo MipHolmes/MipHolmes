@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MipHolmes
 - 👀 I’m interested in ... Cybersecurity
-- 🌱 I’m currently learning ... Hacking Web Apps and Cloud Infra
+- 🌱 I’m currently learning ... Hacking Web Apps and Cloud
 - 💞️ I’m looking to collaborate on ... Bug Bounties, Pen Testing, Web Development
 - 📫 How to reach me ... GitHub, Linkedin
 - 😄 Pronouns: he/him
