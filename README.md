@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @MipHolmes
-- 👀 I’m interested in ... Cybersecurity
-- 🌱 I’m currently learning ... Hacking Web Apps and Cloud
-- 💞️ I’m looking to collaborate on ... Pen Testing, Bug Bountying, Web Development, Security Projects
-- 📫 How to reach me ... GitHub, Discord, Linkedin
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ... I'm obsessed with Geography – I can spend all day looking at maps and researching places on Earth. 
+Problem Solver, Truth Seeker, Adventurer 
 
 <!---
 MipHolmes/MipHolmes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
